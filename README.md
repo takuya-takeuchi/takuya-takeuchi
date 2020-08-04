@@ -13,5 +13,5 @@ I have these skills.
 I'm interesting to
 
 * Deep Learning
-* Iamge Processing
+* Image Processing
 * Development of Mobile Application
