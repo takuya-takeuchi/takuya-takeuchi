@@ -15,3 +15,5 @@ I'm interesting to
 * Deep Learning
 * Image Processing
 * Development of Mobile Application
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuya-takeuchi)](https://github.com/anuraghazra/github-readme-stats)
