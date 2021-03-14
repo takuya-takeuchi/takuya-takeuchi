@@ -9,6 +9,7 @@ I have these skills.
 * C/C++
 * Python
 * Development of Windows Application, especially WinForms/WPF/UWP
+* Development of Server Side Application, especially ASP.NET Core
 
 I'm interesting to
 
